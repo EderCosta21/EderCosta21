@@ -1,6 +1,6 @@
 ### Olá eu sou Eder Costa  👋
 
-- 🔭 I am currently working on Mobile Development
+- 🔭 I am currently working on Development front-end and mobile
 - 🌱 I'm currently learning angular front-end and node.js back-end
 - 👯 I’m looking to collaborate on developer comunity
 <!-- - 💬 Ask me about ...
